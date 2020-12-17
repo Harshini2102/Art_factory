@@ -1,0 +1,24 @@
+.section2{
+    height:100vh;
+    color:black;
+}
+
+.right-image-title{
+    line-height: 2.5rem;
+    letter-spacing: 1px;
+    font-size: x-large;
+}
+
+h3{
+    margin:-50px 80px;
+}
+
+.about1-img-content{
+    margin:70px 0px 20px 80px;
+}
+
+.right-image{
+    float:right;
+    margin-top: -550px;
+    margin-right: 100px;
+}

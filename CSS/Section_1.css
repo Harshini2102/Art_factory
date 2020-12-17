@@ -1,0 +1,53 @@
+.section1{
+    height: 100vh;
+}
+
+.margin-left-top{
+    margin: 100px 0px 0px 100px;
+}
+
+.left-image-content{
+    float:right;
+    color:black;
+    margin: 0px 100px 0px -100px;
+}
+
+.left-image-title{
+    margin-top: 50px;
+    line-height: 2.5rem;
+    letter-spacing: 1px;
+    font-size: x-large;
+}
+
+
+.image-content{
+    line-height: 2rem;
+    color:#4a4a4a;
+}
+
+.link{
+    color:blue;
+}
+
+.link:hover{
+    cursor: pointer;
+    color:blueviolet;
+}
+
+.btn{
+    background-color: #00b4c6;
+    border-radius: 20px;
+    padding:12px 20px;
+    color:white;
+    font-size: 13px;
+}
+
+.btn:hover{
+    background-color: #007bff;
+    color:#fff;
+    cursor: pointer;
+}
+
+hr{
+     border:1px solid lightgray;
+}

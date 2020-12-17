@@ -1,0 +1,63 @@
+.footer{
+    height:10vh;
+}
+
+.copyright{
+    width:50%;
+    margin: 100px 100px;
+    color:black;
+}
+
+.footer .social-media li a{
+    color: white;
+    text-align: center;
+    background-color:  #00b4c6;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 6px;
+    font-size: 16px;
+    position: absolute;
+}
+
+.footer .social-media li a:hover{
+    background-color:  #007bff;
+    color:#fff;
+}
+
+.social-media{
+    margin-left: 600px;
+    margin-top: -150px;
+}
+
+.facebook{
+    margin-left:400px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.twitter{
+    margin-left:450px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.linkedin{
+    margin-left:500px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.rss{
+    margin-left:550px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.dribbble{
+    margin-left:600px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+

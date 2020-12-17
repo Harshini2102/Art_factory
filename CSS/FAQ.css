@@ -1,0 +1,68 @@
+.faq{
+    height:110vh;
+    background-color: white;
+    color:black
+}
+
+.faq h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.center{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/*.left-content
+{
+    margin: 100px 100px;
+    overflow: hidden;
+    width:50%;
+}*/
+
+/*.left-content p{
+    line-height: 2.5rem;
+    margin-right: 200px;
+}*/
+
+/*.left-content {
+    line-height: 2rem;
+    margin-right: 200px;
+    width:50%;
+}*/
+
+.accordions{
+    /*float:right;*/
+    width:100%;
+    margin-left: -300px;
+    
+}
+
+.accordion {
+    background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 50%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  float:right;
+  margin-left:10px;
+  margin-top: 2px;
+  }
+  
+
+  .panel {
+  padding: 30 18px;
+  display: none;
+  background-color:#eee;
+  width:50%;
+  float:right;
+  
+  }
+  
